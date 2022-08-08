@@ -12,3 +12,4 @@ def swap_list(first, second):
 print(swap_list(a, b))
 print(f'{a}')
 print('a')
+print('b')
