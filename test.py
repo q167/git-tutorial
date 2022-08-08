@@ -10,3 +10,5 @@ def swap_list(first, second):
     return first, second
 
 print(swap_list(a, b))
+print(f'{a}')
+print('a')
